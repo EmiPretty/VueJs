@@ -19,5 +19,4 @@ defineProps<{ title: string; content: string; }>();
 </template>
 
 <style scoped>
-/* Ajoutez des styles ici si nécessaire */
 </style>
