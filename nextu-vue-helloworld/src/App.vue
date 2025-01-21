@@ -337,7 +337,8 @@ button[type="button"]:hover {
 </style>
 
 
-<!-- <template>
+<!--exo1 jour1
+ <template>
   <div id="app">
     <product-list :products="products" />
   </div>
@@ -368,4 +369,4 @@ export default {
 </script>
 
 <style>
-</style> -->
+</style>  -->
