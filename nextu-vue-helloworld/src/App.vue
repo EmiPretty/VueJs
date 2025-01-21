@@ -6,6 +6,10 @@
 
 <script>
 import ProductList from './components/ProductList.vue';
+import AsideView from './components/layouts/AsideView.vue'
+import HeaderView from './components/layouts/HeaderView.vue'
+import NavView from './components/layouts/NavView.vue'
+import HomeProjectView from './views/HomeProjectView.vue'
 
 export default {
   name: 'App',

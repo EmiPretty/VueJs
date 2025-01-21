@@ -33,7 +33,7 @@
   };
   </script>
   
-  <style>
+<style>
   .table-container {
     display: flex;
     justify-content: center;
@@ -58,5 +58,5 @@
   th {
     background-color: #f4f4f4;
   }
-  </style>
+</style>
   
